@@ -1,0 +1,151 @@
+[
+		{"day": "SUN"},
+		{
+				"day": "MON",
+				"data": [
+						{
+								"start" : "10:00",
+								"end" : "11:50",
+								"subject": [{ "name": "DBMS", "link": "" }],
+								"description": "CSEN 3101"
+						},
+						{
+								"start" : "12:00",
+								"end" : "12:50",
+								"subject": [{ "name": "Elective", "link": "https://google.com" },
+										{"name": "Elective2", "link": "https://yahoo.com"} ],
+								"popup": ""
+						},
+						{
+								"start" : "14:00",
+								"end" : "15:50",
+								"subject": [{ "name": "AI", "link": "" }]
+						},
+						{
+								"start" : "16:00",
+								"end" : "16:50",
+								"subject": [{ "name": "Remedial", "link": "" }]
+						}
+				]
+		},
+		{
+				"day": "TUE",
+				"data": [
+						{
+								"start" : "10:00",
+								"end" : "10:50",
+								"subject": [{ "name": "Automata", "link": "" }],
+								"description": "CSEN 3102"
+						},
+						{
+								"start" : "11:00",
+								"end" : "12:50",
+								"subject": [{ "name": "OOP", "link": "" }],
+								"description": "CSEN 3103"
+						},
+						{
+								"start" : "14:00",
+								"end" : "14:50",
+								"subject": [{ "name": "ECEN 3106", "link": "" }],
+								"description": "KD"
+						},
+						{
+								"start" : "15:00",
+								"end" : "15:50",
+								"subject": [{ "name": "Elective", "link": "" }],
+								"popup": ""
+						},
+						{
+								"start" : "16:00",
+								"end" : "16:50",
+								"subject": [{ "name": "Remedial", "link": "" }]
+						}
+				]
+		},
+		{
+				"day": "WED",
+				"data": [
+						{
+								"start" : "10:00",
+								"end" : "10:50",
+								"subject": [{ "name": "ECEN 3106", "link": "" }],
+								"description": "KD"
+						},
+						{
+								"start" : "11:00",
+								"end" : "11:50",
+								"subject": [{ "name": "DBMS", "link": "" }]
+						},
+						{
+								"start" : "12:00",
+								"end" : "12:50",
+								"subject": [{ "name": "Automata", "link": "" }],
+								"description": "PD"
+						},
+						{
+								"start" : "14:00",
+								"end" : "15:50",
+								"subject": [{ "name": "OOP", "link": "" }]
+						},
+						{
+								"start" : "16:00",
+								"end" : "16:50",
+								"subject": [{ "name": "AI", "link": "" }]
+						}
+				]
+		},
+		{
+				"day": "THU",
+				"data": [
+						{
+								"start" : "10:00",
+								"end" : "10:50",
+								"subject": [{ "name": "Automata", "link": "" }],
+								"description": "PD"
+						},
+						{
+								"start" : "11:00",
+								"end" : "11:50",
+								"subject": [{ "name": "Elective", "link": "" }],
+								"popup" : ""
+						},
+						{
+								"start" : "12:00",
+								"end" : "12:50",
+								"subject": [{ "name": "OOP", "link": "" }]
+						},
+						{
+								"start" : "14:00",
+								"end" : "14:50",
+								"subject": [{ "name": "AI", "link": "" }],
+								"description": "SM"
+						},
+						{
+								"start" : "16:00",
+								"end" : "16:50",
+								"subject": [{ "name": "Remedial", "link": "" }]
+						}
+				]
+		},
+		{
+				"day": "FRI",
+				"data": [
+						{
+								"start" : "10:00",
+								"end" : "10:50",
+								"subject": [{ "name": "Automata", "link": "" }],
+								"description": "PD"
+						},
+						{
+								"start" : "11:00",
+								"end" : "11:50",
+								"subject": [{ "name": "DBMS", "link": "" }],
+								"description": "CSEN 3101"
+						},
+						{
+								"start" : "16:00",
+								"end" : "16:50",
+								"subject": [{ "name": "Web", "link": "" }]
+						}
+				]
+		}]

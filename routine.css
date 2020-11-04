@@ -1,0 +1,28 @@
+.loading{
+	margin: 0 auto;
+}
+
+
+table {
+	margin: 0 auto;
+	border-width: thin;
+	border-collapse: collapse;
+}
+
+td {
+	padding: 15px;
+}
+
+td a {
+    display:block;
+    width:100%;
+}
+
+
+.completed{
+	background-image: linear-gradient(lightgreen, mediumseagreen, lightgreen);
+}
+
+.classGoingOn {
+	background-image: linear-gradient(mediumslateblue, aqua)
+}
